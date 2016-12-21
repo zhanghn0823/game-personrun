@@ -1,1 +1,1 @@
-# game-run上下左右控制小人行走
+# game-personrun上下左右控制小人行走
